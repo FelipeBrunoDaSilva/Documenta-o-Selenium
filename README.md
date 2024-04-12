@@ -1,7 +1,7 @@
 Documentação-Selenium para automação.
 
 
-Repositório criado para automação.
+
 
 Link:
 
